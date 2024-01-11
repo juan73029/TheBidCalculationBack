@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WedzXWnpeGasmAhXXmxeXDyie1CFtymywUobctPKmAU=",
+  "Source": "TheBidCalculation.Api",
+  "BasePath": "_content/TheBidCalculation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

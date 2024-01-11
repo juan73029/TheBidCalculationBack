@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TheBidCalculation.Entities/1.0.0": {
+        "runtime": {
+          "TheBidCalculation.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheBidCalculation.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

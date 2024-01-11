@@ -1,0 +1,30 @@
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Core.deps.json
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Core.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Entities.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Entities.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/refint/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.pdb
+/Users/juandavidolarteserna/Desktop/Projects .Net/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/ref/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Core.deps.json
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Core.pdb
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Entities.dll
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/bin/Debug/net7.0/TheBidCalculation.Entities.pdb
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.csproj.AssemblyReference.cache
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.AssemblyInfoInputs.cache
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.AssemblyInfo.cs
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.csproj.CoreCompileInputs.cache
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.csproj.CopyComplete
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/refint/TheBidCalculation.Core.dll
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/TheBidCalculation.Core.pdb
+/Users/juandavidolarteserna/Desktop/TheBidCalculation/TheBidCalculation.Core/obj/Debug/net7.0/ref/TheBidCalculation.Core.dll
